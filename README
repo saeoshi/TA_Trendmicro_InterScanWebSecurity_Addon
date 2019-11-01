@@ -1,0 +1,43 @@
+Splunk Add-on for Technical Addon for Trendmicro InterScanWebSecurity
+Version 1.0.0
+
+RELEASE NOTES
+
+(The most up-to-date version of the release notes is available online:
+https://github.com/saeoshi/TA_Trendmicro_InterScanWebSecurity_Addon/README.md)
+
+
+WHAT DOES THIS APP DO?
+======================
+
+This App can parse fields for Trendmicro InterScanWebSecurity and compatible CIM4.x.
+The app is available from https://github.com/saeoshi/TA_Trendmicro_InterScanWebSecurity_Addon
+
+
+REQUIREMENTS/INSTALLATION
+=========================
+
+Here's what you need to get going with the Octopus Deploy.
+
+1. Install Splunk Enterprise
+----------------------------
+
+If you haven't already installed Splunk Enterprise, download it at http://www.splunk.com/download. For more information about installing and running Splunk Enterprise and system requirements, see the Installation Manual (http://docs.splunk.com/Documentation/Splunk/latest/Installation).
+
+2. Install the Apps
+---------------------------
+
+Install App to the $SPLUNK_HOME/etc/apps folder and restart splunkd.
+
+3. Install dependencies
+-----------------------
+
+There are no dependencies
+
+
+COMMUNITY AND FEEDBACK
+======================
+
+Questions, comments, suggestions?
+
+File any issues on GitHub (https://github.com/saeoshi/TA_Trendmicro_InterScanWebSecurity_Addon/issues).
